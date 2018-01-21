@@ -1,0 +1,9 @@
+= ConnectIQ IoT Widget
+
+Simple widget lets you call any HTTP URL on touch.
+
+The url is configurable via Settings in the Garmin connect app.
+
+ConnectIQ store: https://apps.garmin.com/en-US/apps/62460e2c-fec5-4839-bdac-e47d9af4c293
+
+Pull requests and suggestions for improvements are welcome!
