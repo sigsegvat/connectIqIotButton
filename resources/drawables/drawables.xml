@@ -1,0 +1,13 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+  <drawable-list id="iotbutton">
+    <shape  type="rectangle" x="center" y="center" corner_radius="10" 
+    width="150" height="80" border_width="1" color="Gfx.COLOR_TRANSPARENT" 
+    border_color="Gfx.COLOR_WHITE"></shape>
+    
+     <shape  type="rectangle" x="center" y="center" corner_radius="10" 
+    width="140" height="70" border_width="1" color="Gfx.COLOR_BLACK" 
+    border_color="Gfx.COLOR_BLACK"></shape>
+     
+    </drawable-list>
+</drawables>

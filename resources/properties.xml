@@ -1,0 +1,19 @@
+<resources>
+
+    <properties>
+        <property id="iotUrl" type="string"></property>
+    </properties>
+
+    <strings>
+       <string id="iot_title">HTTP webhook</string>
+    </strings>
+
+    <settings>
+
+        <setting propertyKey="@Properties.iotUrl" title="@Strings.iot_title">
+            <settingConfig type="url" required="true"/>
+        </setting>
+
+      
+    </settings>
+</resources>

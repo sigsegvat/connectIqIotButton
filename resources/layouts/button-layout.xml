@@ -1,0 +1,4 @@
+<layout id="ButtonLayout">
+    	<drawable id="iotbutton"/>
+    	<label text="send" x="center" y="center" justification="Graphics.TEXT_JUSTIFY_CENTER"></label> 
+</layout>
